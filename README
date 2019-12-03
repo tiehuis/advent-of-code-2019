@@ -1,0 +1,5 @@
+All solutions are self-contained and contain the appropriate input.
+
+```
+zig run 1_1.zig
+```
